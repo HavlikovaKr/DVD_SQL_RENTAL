@@ -6,7 +6,8 @@ Použité nástroje: Visual studio code, pgAdmin, PostgreSQL
 **ODKAZ DATABÁZE: **
 https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/ 
 
-https://github.com/HavlikovaKr/DVD_SQL_RENTAL/blob/main/Pron%C3%A1jem_DVD.docx
+SOUBOUR OSTATNÍ VHLEDÁVÁNÍ A VÝSLEDKY: https://github.com/HavlikovaKr/DVD_SQL_RENTAL/blob/main/Pron%C3%A1jem_DVD.docx
+
 
 **DVD RENTAL DATABÁZE**
 
@@ -16,7 +17,7 @@ V tomto dokumentu naleznete výsledky SQL dotazů, které poskytují přehled o 
 
 ** OTÁZKY A ODPOVĚDI  **
 1. JAKÁ JE PRŮMĚRNÁ CENA ZA VYPŮJČENÍ DVD? 
-
+![image](https://github.com/user-attachments/assets/c58cffd3-2938-43b4-9dff-49efdf4058fc)
   
 
 2. KOLIK FILMŮ MÁ DOBU VYPŮJČENÍ 7 DNÍ? 
