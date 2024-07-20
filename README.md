@@ -6,8 +6,7 @@ Použité nástroje: Visual studio code, pgAdmin, PostgreSQL
 **ODKAZ DATABÁZE: **
 https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/ 
 
-SOUBOUR OSTATNÍ VYHLEDÁVÁNÍ A VÝSLEDKY: https://github.com/HavlikovaKr/DVD_SQL_RENTAL/blob/main/Pron%C3%A1jem_DVD.docx
-
+VŠECHNY VÝSLEDKY: 
 
 **DVD RENTAL DATABÁZE**
 
@@ -64,6 +63,3 @@ V tomto dokumentu naleznete výsledky SQL dotazů, které poskytují přehled o 
 
  
 
- 
-
- DÁLE VYHLEDÁVÁní a VÝSLEDKY https://github.com/HavlikovaKr/DVD_SQL_RENTAL/blob/main/Pron%C3%A1jem_DVD.docx
