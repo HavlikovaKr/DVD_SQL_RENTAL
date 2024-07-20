@@ -6,7 +6,7 @@ Použité nástroje: Visual studio code, pgAdmin, PostgreSQL
 **ODKAZ DATABÁZE: **
 https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/ 
 
-VŠECHNY VÝSLEDKY: 
+Soubour výsledků a odpovědí: 
 
 **DVD RENTAL DATABÁZE**
 
