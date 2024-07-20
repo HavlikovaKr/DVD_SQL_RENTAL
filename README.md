@@ -73,4 +73,4 @@ V tomto dokumentu naleznete výsledky SQL dotazů, které poskytují přehled o 
 
  
 
-DÁLE VYHLEDÁVÁNÍ V SOUBORU.  
+ DÁLE VYHLEDÁVÁNÍ V SOUBORU.  
